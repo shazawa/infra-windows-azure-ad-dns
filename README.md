@@ -101,5 +101,3 @@ Ambiente configurado com sucesso, incluindo:
 ---
 
 📌 *Projeto realizado para prática e reforço de conceitos de administração de redes e sistemas operacionais no contexto de computação em nuvem.*
-
-#WindowsServer #Azure #ActiveDirectory #DNS #PowerShell #FIAP #CyberSecurity
